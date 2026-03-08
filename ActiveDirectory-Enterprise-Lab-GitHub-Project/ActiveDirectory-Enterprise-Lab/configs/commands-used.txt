@@ -1,0 +1,13 @@
+# Commands Used in Lab
+
+ipconfig
+Displays basic IPv4 and IPv6 configuration for network adapters.
+
+ipconfig /all
+Displays detailed network configuration information.
+
+hostname
+Displays the computer name.
+
+gpupdate /force
+Forces immediate refresh of Group Policy settings.
