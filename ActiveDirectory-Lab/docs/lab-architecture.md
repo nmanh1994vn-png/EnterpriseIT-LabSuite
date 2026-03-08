@@ -1,5 +1,6 @@
-Architecture Overview
+## Architecture Overview
 
+```
 Windows 11 Host
       │
 VMware Workstation
@@ -16,3 +17,4 @@ VMware Workstation
 │ Client VM     │
 │ Domain Joined │
 └───────────────┘
+```
