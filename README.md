@@ -30,11 +30,13 @@ Domain Controller
 - Operating System: Windows Server 2022
 - Domain: jamesnguyen.local
 - Static IP: 192.168.202.133
-- DNS: 127.0.0.1
+- Subnet Mask: 255.255.255.0
+- Default Gateway: 192.168.202.2
+- DNS Server: 127.0.0.1
 
 Client Machine
 - Operating System: Windows 10
-- Hostname: jamesnguyen
+- Hostname: Comp01
 - Domain Joined: jamesnguyen.local
 
 ## Implemented Features
