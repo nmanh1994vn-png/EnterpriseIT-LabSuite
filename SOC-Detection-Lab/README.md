@@ -33,8 +33,8 @@ Example command:
 
 nmap -sS <target-ip>
 
-This simulates reconnaissance activity performed by attackers before exploitation.
-
+This command performs a TCP SYN scan from the Kali Linux attacker machine against the Windows target host.
+The scan simulates reconnaissance activity used by attackers to identify open ports and services.
 ---
 
 ## Detection Queries
