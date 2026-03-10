@@ -1,13 +1,23 @@
 
 # Enterprise IT Lab Suite
 
+## Overview
+
 This repository contains a collection of hands-on enterprise IT labs designed to simulate real-world IT infrastructure and support scenarios.
 
-The labs demonstrate practical skills in Windows Server administration, Microsoft 365 cloud management, and IT helpdesk troubleshooting.
+The lab environment includes multiple virtual machines consisting of a Windows Server 2022 Domain Controller and Windows client systems configured in a simulated enterprise network.
+
+The labs demonstrate practical skills in:
+
+- Windows Server administration
+- Microsoft 365 cloud management
+- Active Directory identity management
+- IT helpdesk troubleshooting
 
 ---
 
-# Labs Included
+## Labs Included
+
 
 ## Active Directory Enterprise Lab
 Deployment and configuration of a Windows Server 2022 Active Directory environment.
@@ -19,7 +29,7 @@ Key Tasks:
 - Joined Windows client machines to the domain
 
 Lab Files:
-ActiveDirectory-Lab/
+[Active Directory Lab](ActiveDirectory-Lab)
 
 ---
 
@@ -30,10 +40,10 @@ Key Tasks:
 - Created Microsoft 365 tenant
 - Configured users and security groups in Entra ID
 - Assigned licenses and enabled MFA
-- Explored device management through Intune
-
+- Configured and explored device management capabilities in Microsoft Intune
+  
 Lab Files:
-Microsoft365-EntraID-Intune-Lab/
+[Microsoft 365 / Entra ID / Intune Lab](Microsoft365-EntraID-Intune-Lab)
 
 ---
 
@@ -47,7 +57,7 @@ Key Tasks:
 - Practiced standard helpdesk troubleshooting workflow
 
 Lab Files:
-Helpdesk-Troubleshooting-Lab/
+[Helpdesk Troubleshooting Lab](Helpdesk-Troubleshooting-Lab)
 
 ---
 
