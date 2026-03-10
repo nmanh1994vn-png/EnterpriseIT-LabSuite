@@ -7,12 +7,12 @@ This repository contains multiple enterprise-style home lab environments designe
 
 ## Labs Included
 
-- Active Directory Enterprise Lab
-- Microsoft 365 / Azure AD Lab (coming soon)
-- Networking & Troubleshooting Lab (coming soon)
-- Security & Hardening Lab (coming soon)
+## Labs Included
 
----
+- [Active Directory Enterprise Lab](ActiveDirectory-Lab)
+- [Microsoft 365 / Entra ID / Intune Lab](Microsoft365-EntraID-Intune-Lab)
+- [Helpdesk Troubleshooting Lab](Helpdesk-Troubleshooting-Lab)
+  
 
 # Active Directory Enterprise Lab
 
