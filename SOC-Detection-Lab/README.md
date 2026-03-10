@@ -9,7 +9,7 @@ A Windows 11 virtual machine acts as the monitored endpoint while Kali Linux sim
 This demonstrates real SOC analyst skills such as attack simulation, log analysis, and threat detection.
 
 ## Lab Architecture
-![SOC Lab Architecture](architecture/architecturesoc-lab-architecture.png)
+![SOC Lab Architecture](architecture/soc-lab-architecture)
 
 ## Lab Environment
 
