@@ -60,12 +60,12 @@ Lab Files:
 [Helpdesk Troubleshooting Lab](Helpdesk-Troubleshooting-Lab)
 
 ### SOC Detection Lab
-→ Splunk SIEM deployment  
-→ Sysmon endpoint logging  
-→ Attack simulation using Kali Linux  
-→ Threat detection using Splunk queries  
+- Splunk SIEM deployment
+- Sysmon endpoint logging
+- Attack simulation using Kali Linux
+- Threat detection using Splunk queries
 
-[Open SOC Detection Lab](./SOC-Detection-Lab)
+[View Lab →](./SOC-Detection-Lab)
 ---
 
 # Technologies Used
