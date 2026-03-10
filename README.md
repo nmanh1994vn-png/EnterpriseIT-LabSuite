@@ -65,7 +65,7 @@ Lab Files:
 - Attack simulation using Kali Linux
 - Threat detection using Splunk queries
 
-[View Lab →](./SOC-Detection-Lab)
+[Open SOC Detection Lab](./SOC-Detection-Lab)
 ---
 
 # Technologies Used
