@@ -1,5 +1,53 @@
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
+---
+
+# Lab Architecture
+
+This home lab simulates a small enterprise IT and SOC monitoring environment using virtual machines.
+
+```
+Windows 11 Host Machine
+│
+└── VMware Workstation
+    │
+    ├── DC01
+    │   Windows Server 2022
+    │   Active Directory
+    │   DNS
+    │
+    ├── Windows 11 Client
+    │   Domain Joined Endpoint
+    │   Sysmon Installed
+    │   Splunk Universal Forwarder
+    │
+    └── Kali Linux
+        Attacker Machine
+        Used for attack simulation
+```
+
+Security monitoring flow:
+
+```
+Kali Linux (Attacker)
+        │
+        │  Simulated Attacks
+        ▼
+Windows 11 Endpoint
+(Sysmon logs generated)
+        │
+        │  Forwarded via
+        ▼
+Splunk Universal Forwarder
+        │
+        ▼
+Splunk SIEM
+(Security Event Monitoring & Detection)
+```
+
+---
+
+
 This repository contains hands-on enterprise IT and cybersecurity labs built to simulate real-world corporate environments.
 
 The labs demonstrate practical skills in:
