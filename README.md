@@ -1,71 +1,123 @@
+# Enterprise IT & Cybersecurity Home Lab Portfolio
 
-# Enterprise IT Lab Suite
+This repository contains hands-on enterprise IT and cybersecurity labs designed to simulate real-world corporate environments.  
+The labs demonstrate skills in Windows infrastructure, Active Directory administration, cloud identity management, troubleshooting, and SOC security monitoring.
 
-## Overview
-
-This repository contains a collection of hands-on enterprise IT labs designed to simulate real-world IT infrastructure and support scenarios.
-
-The lab environment includes multiple virtual machines consisting of a Windows Server 2022 Domain Controller and Windows client systems configured in a simulated enterprise network.
-
-The labs demonstrate practical skills in:
-
-- Windows Server administration
-- Microsoft 365 cloud management
-- Active Directory identity management
-- IT helpdesk troubleshooting
+These environments were built using virtual machines and enterprise tools commonly used in production networks.
 
 ---
 
-## Labs Included
-
+# Lab Environments
 
 ## Active Directory Enterprise Lab
-Deployment and configuration of a Windows Server 2022 Active Directory environment.
+Enterprise Windows infrastructure deployment.
 
-Key Tasks:
-- Installed Windows Server 2022 and configured a Domain Controller
-- Created Organizational Units (OUs), users, and security groups
-- Implemented Group Policy settings
-- Joined Windows client machines to the domain
+Key components:
+- Windows Server 2022 Domain Controller
+- Active Directory Domain Services
+- DNS configuration
+- Organizational Units (OUs)
+- User and Group management
+- Group Policy configuration
+- Domain joined Windows client machines
 
-Lab Files:
-[Active Directory Lab](ActiveDirectory-Lab)
+Skills demonstrated:
+- Active Directory administration
+- Domain management
+- Group Policy deployment
+- Windows enterprise infrastructure
+
+
+---
+
+## SOC Active Directory Attack Detection Lab
+Security monitoring lab demonstrating detection of credential dumping attacks.
+
+Key components:
+- Windows Server 2022 Domain Controller
+- Windows 11 domain client
+- Sysmon endpoint monitoring
+- Splunk SIEM for log analysis
+- Mimikatz credential dumping simulation
+
+Attack simulation:
+- Credential dumping using Mimikatz
+
+Detection:
+- Sysmon telemetry collection
+- Splunk log ingestion
+- Security event investigation
+
+Skills demonstrated:
+- SOC monitoring
+- Attack detection
+- SIEM log analysis
+- Endpoint telemetry
+
+
+---
+
+## SOC Detection Lab
+Security monitoring and event investigation using Windows logs and SIEM.
+
+Focus areas:
+- Security Event Logs
+- Authentication monitoring
+- Suspicious activity detection
+- SIEM log analysis
+
 
 ---
 
 ## Microsoft 365 / Entra ID / Intune Lab
-Configuration of a Microsoft 365 tenant and cloud identity management environment.
+Cloud identity and device management environment.
 
-Key Tasks:
-- Created Microsoft 365 tenant
-- Configured users and security groups in Entra ID
-- Assigned licenses and enabled MFA
-- Configured and explored device management capabilities in Microsoft Intune
-  
-Lab Files:
-[Microsoft 365 / Entra ID / Intune Lab](Microsoft365-EntraID-Intune-Lab)
+Key components:
+- Microsoft 365 tenant configuration
+- Entra ID users and groups
+- Role Based Access Control (RBAC)
+- Intune device enrollment
+- Conditional Access policies
+
+Skills demonstrated:
+- Identity and access management
+- Cloud administration
+- Device management
+- Microsoft 365 security features
+
 
 ---
 
-## Helpdesk Troubleshooting Lab
-Simulation of common IT support troubleshooting scenarios in a Windows environment.
+## Helpdesk & Troubleshooting Lab
+IT support environment demonstrating common enterprise troubleshooting scenarios.
 
-Key Tasks:
-- Investigated user login issues using Active Directory
-- Diagnosed network connectivity problems using ipconfig and ping
-- Resolved printer issues by restarting Print Spooler service
-- Practiced standard helpdesk troubleshooting workflow
+Focus areas:
+- Windows client troubleshooting
+- Network connectivity issues
+- Domain login issues
+- System configuration errors
+- Helpdesk ticket style problem resolution
 
-Lab Files:
-[Helpdesk Troubleshooting Lab](Helpdesk-Troubleshooting-Lab)
+Skills demonstrated:
+- IT support troubleshooting
+- Windows diagnostics
+- Enterprise support workflows
 
-### SOC Detection Lab
-- Splunk SIEM deployment
-- Sysmon endpoint logging
-- Attack simulation using Kali Linux
-- Threat detection using Splunk queries
 
-[Open SOC Detection Lab](./SOC-Detection-Lab)
+---
+
+# Lab Architecture
+
+The environments simulate a typical enterprise infrastructure using virtualization.
+
+Components include:
+
+- Windows Server infrastructure
+- Windows client machines
+- Active Directory domain environment
+- SIEM monitoring platform
+- Microsoft 365 cloud services
+
 ---
 
 # Technologies Used
@@ -73,19 +125,16 @@ Lab Files:
 - Windows Server 2022
 - Windows 11
 - Active Directory
+- DNS
+- Sysmon
+- Splunk SIEM
 - Microsoft 365
-- Microsoft Entra ID
-- Microsoft Intune
-- VirtualBox
-- Networking tools (ping, ipconfig, nslookup)
+- Entra ID
+- Intune
+- Virtualization (VMware / VirtualBox)
 
 ---
 
-# Purpose of This Repository
+# Author
 
-This project demonstrates practical enterprise IT skills through hands-on lab environments, focusing on:
-
-- Identity and access management
-- Cloud administration
-- Windows infrastructure
-- IT support troubleshooting
+Enterprise IT & Cybersecurity home lab built for hands-on learning and professional portfolio development.
