@@ -108,18 +108,13 @@ Skills demonstrated:
 
 
 ---
+# Repository Structure
 
-# Lab Architecture
-
-The environments simulate a typical enterprise infrastructure using virtualization.
-
-Components include:
-
-- Windows Server infrastructure
-- Windows client machines
-- Active Directory domain environment
-- SIEM monitoring platform
-- Microsoft 365 cloud services
+- "ActiveDirectory-Lab" — Windows Server domain deployment and administration
+- "SOC-ActiveDirectory-Attack-Lab" — credential dumping simulation and SIEM detection
+- "SOC-Detection-Lab" — security event investigation and monitoring
+- "Microsoft365-EntraID-Intune-Lab" — cloud identity and device management
+- "Helpdesk-Troubleshooting-Lab" — enterprise support and troubleshooting scenarios
 
 ---
 
@@ -140,4 +135,4 @@ Components include:
 
 # Author
 
-Enterprise IT & Cybersecurity home lab built for hands-on learning and professional portfolio development.
+Built as a hands-on portfolio to demonstrate practical enterprise IT, cloud administration, and cybersecurity skills.
