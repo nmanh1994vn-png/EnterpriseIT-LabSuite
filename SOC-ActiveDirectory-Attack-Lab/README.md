@@ -1,4 +1,4 @@
-# SOC Cybersecurity Detection Lab
+SOC Active Directory Attack Detection Lab
 
 Hands-on cybersecurity lab demonstrating attack detection using:
 
