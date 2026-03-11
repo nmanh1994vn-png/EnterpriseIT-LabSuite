@@ -1,15 +1,14 @@
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
-This repository contains hands-on enterprise IT and cybersecurity labs designed to simulate real-world corporate environments.  
-The labs demonstrate skills in Windows infrastructure, Active Directory administration, cloud identity management, troubleshooting, and SOC security monitoring.
+This repository contains hands-on enterprise IT and cybersecurity labs built to simulate real-world corporate environments.
 
-These environments were built using virtual machines and enterprise tools commonly used in production networks.
+The portfolio demonstrates practical skills in Windows infrastructure, Active Directory, Microsoft 365 / Entra ID, troubleshooting, and SOC monitoring using virtual machines and enterprise tools.
 
----
 
 # Lab Environments
 
 ## Active Directory Enterprise Lab
+[Open Lab](./ActiveDirectory-Lab)
 Enterprise Windows infrastructure deployment.
 
 Key components:
@@ -31,6 +30,7 @@ Skills demonstrated:
 ---
 
 ## SOC Active Directory Attack Detection Lab
+[Open Lab](./SOC-ActiveDirectory-Attack-Lab)
 Security monitoring lab demonstrating detection of credential dumping attacks.
 
 Key components:
@@ -58,6 +58,7 @@ Skills demonstrated:
 ---
 
 ## SOC Detection Lab
+[Open Lab](./SOC-Detection-Lab)
 Security monitoring and event investigation using Windows logs and SIEM.
 
 Focus areas:
@@ -70,6 +71,7 @@ Focus areas:
 ---
 
 ## Microsoft 365 / Entra ID / Intune Lab
+[Open Lab](./Microsoft365-EntraID-Intune-Lab)
 Cloud identity and device management environment.
 
 Key components:
@@ -89,6 +91,7 @@ Skills demonstrated:
 ---
 
 ## Helpdesk & Troubleshooting Lab
+[Open Lab](./Helpdesk-Troubleshooting-Lab)
 IT support environment demonstrating common enterprise troubleshooting scenarios.
 
 Focus areas:
