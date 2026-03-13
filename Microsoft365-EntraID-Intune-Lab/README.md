@@ -61,26 +61,25 @@ The goal of this lab is to demonstrate practical experience with:
 
 ### Microsoft 365 Admin Center (Default Domain)
 
-![Microsoft 365 Admin Center](screenshots/01_microsoft365_admin_center_default_domain.png)
+![Microsoft 365 Admin Center](screenshots/01%20microsoft365_admin_center_default_domain.png)
 
 ---
 
 ### Microsoft 365 Admin Center – Manage Users
 
-![Manage Users](screenshots/02_microsoft365_admin_center_manage_users.png)
+![Manage Users](screenshots/02%20microsoft365_admin_center_manage_users.png)
 
 ---
 
 ### Entra ID Security Group Management
 
-![Entra ID Groups](screenshots/03_entra_id_security_group_management.png)
+![Entra ID Groups](screenshots/03%20entra_id_security_group_management.png)
 
 ---
 
 ### Intune Admin Center Overview
 
-![Intune Admin](screenshots/04_intune_admin_center_overview.png)
-
+![Intune Admin](screenshots/04%20intune_admin_center_overview.png)
 ---
 
 ### Intune Device Configuration Policies
