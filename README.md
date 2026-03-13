@@ -1,5 +1,15 @@
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Lab-blue)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
+![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Telemetry-orange)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Attack%20Simulation-blue)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Cloud%20Identity-blue)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-Identity%20Management-purple)
+![Microsoft Intune](https://img.shields.io/badge/Intune-Device%20Management-green)
+![VMware](https://img.shields.io/badge/VMware-Workstation-grey)
+
 This repository contains hands-on enterprise IT and cybersecurity labs built to simulate real-world corporate environments.
 
 The portfolio demonstrates practical skills in:
