@@ -11,8 +11,6 @@
 ![Microsoft Intune](https://img.shields.io/badge/Intune-Device%20Management-green)
 ![VMware](https://img.shields.io/badge/VMware-Workstation-grey)
 
-## Enterprise Lab Architecture
-
 This environment simulates a small enterprise IT infrastructure with security monitoring and attack detection.
 
 ![Lab Architecture](SOC-Windows-Event-Detection-Lab/architecture/soc-detection-lab-architecture.png)
@@ -26,10 +24,9 @@ The portfolio demonstrates practical skills in:
 • Microsoft 365 / Entra ID / Intune  
 • IT troubleshooting and helpdesk operations  
 • Security Operations Center (SOC) monitoring and attack detection
----
 
+## Enterprise Lab Architecture
 
-```
 Windows 11 Host Machine
 │
 └── VMware Workstation
