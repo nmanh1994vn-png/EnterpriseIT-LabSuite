@@ -63,10 +63,8 @@ The goal of this lab is to demonstrate practical experience with:
 ![Microsoft 365 Admin Center](screenshots/01%20microsoft365_admin_center_default_domain.png)
 
 ---
-
 ### Microsoft 365 Admin Center – Manage Users
 ![Manage Users](screenshots/02%20microsoft365_admin_center_manage%20users.png)
-
 ---
 
 ### Entra ID Security Group Management
