@@ -30,21 +30,19 @@ The portfolio demonstrates practical skills in:
 Windows 11 Host Machine
 │
 └── VMware Workstation
-    │
-    ├── DC01
-    │   Windows Server 2022
-    │   Active Directory
-    │   DNS
-    │
-    ├── Windows 11 Client
-    │   Domain Joined Endpoint
-    │   Sysmon Installed
-    │   Splunk Universal Forwarder
-    │
-    └── Kali Linux
-        Attacker Machine
-        Used for attack simulation
-```
+│
+├── DC01
+│ ├── Windows Server 2022
+│ ├── Active Directory
+│ └── DNS
+│
+├── Windows 11 Client
+│ ├── Domain Joined Endpoint
+│ ├── Sysmon Installed
+│ └── Splunk Universal Forwarder
+│
+└── Kali Linux
+└── Attacker Machine (Attack Simulation)
 
 Security monitoring flow:
 
