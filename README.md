@@ -1,3 +1,4 @@
+![Cybersecurity Home Lab](repo-banner.png)
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
