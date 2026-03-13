@@ -1,5 +1,14 @@
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
+This repository contains hands-on enterprise IT and cybersecurity labs built to simulate real-world corporate environments.
+
+The portfolio demonstrates practical skills in:
+
+• Windows Server infrastructure  
+• Active Directory administration  
+• Microsoft 365 / Entra ID / Intune  
+• IT troubleshooting and helpdesk operations  
+• Security Operations Center (SOC) monitoring and attack detection
 ---
 
 # Lab Architecture
