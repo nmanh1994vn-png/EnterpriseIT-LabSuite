@@ -14,6 +14,10 @@ Environment built using:
 - Active Directory Domain
 - VirtualBox
 
+- ## Lab Architecture
+
+![Helpdesk Lab Architecture](architecture/helpdesk-lab-architecture.png)
+
 ---
 
 ## Ticket 1 – User Account Login Issue
