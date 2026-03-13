@@ -47,8 +47,7 @@ Windows 11 Host Machine
     └── Kali Linux
         └── Attacker Machine (Attack Simulation)
 ```
-
-Security monitoring flow:
+### Security Monitoring Flow
 
 ```
 Kali Linux (Attacker)
