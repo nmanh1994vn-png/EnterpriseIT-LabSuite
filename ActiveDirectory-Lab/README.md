@@ -27,8 +27,6 @@ Windows 11 Host Machine
         └── Domain Joined Endpoint
 ```
 
----
-
 ## Technologies Used
 
 - Windows Server 2022
