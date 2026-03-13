@@ -118,3 +118,22 @@ Skills demonstrated:
 - Network troubleshooting
 - User support scenarios
 - IT support workflow
+
+- # Technologies Used
+
+- Windows Server 2022
+- Windows 11
+- Active Directory
+- DNS
+- Sysmon
+- Splunk SIEM
+- Microsoft 365
+- Entra ID
+- Intune
+- VMware / VirtualBox
+
+---
+
+# Author
+
+Built as a hands-on portfolio to demonstrate practical enterprise IT, cloud administration, and cybersecurity skills.
