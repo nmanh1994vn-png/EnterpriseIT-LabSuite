@@ -27,22 +27,26 @@ The portfolio demonstrates practical skills in:
 
 ## Enterprise Lab Architecture
 
+## Enterprise Lab Architecture
+
+```
 Windows 11 Host Machine
 │
 └── VMware Workstation
-│
-├── DC01
-│ ├── Windows Server 2022
-│ ├── Active Directory
-│ └── DNS
-│
-├── Windows 11 Client
-│ ├── Domain Joined Endpoint
-│ ├── Sysmon Installed
-│ └── Splunk Universal Forwarder
-│
-└── Kali Linux
-└── Attacker Machine (Attack Simulation)
+    │
+    ├── DC01
+    │   ├── Windows Server 2022
+    │   ├── Active Directory
+    │   └── DNS
+    │
+    ├── Windows 11 Client
+    │   ├── Domain Joined Endpoint
+    │   ├── Sysmon Installed
+    │   └── Splunk Universal Forwarder
+    │
+    └── Kali Linux
+        └── Attacker Machine (Attack Simulation)
+```
 
 Security monitoring flow:
 
