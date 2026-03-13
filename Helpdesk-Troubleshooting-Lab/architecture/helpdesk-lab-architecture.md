@@ -10,16 +10,20 @@ The environment consists of a Windows Server domain controller and a domain-join
 
 ## Lab Architecture
 
+## Lab Architecture
+
+```
 Windows 11 Host Machine
-      │
-      ▼
+        │
+        ▼
 VMware Workstation
-      │
-      ├── Domain Controller
-      │   • Windows Server 2022
-      │   • Active Directory Domain Services
-      │   • DNS Server
-      │
-      └── Client Workstation
-          • Windows 10 / Windows 11
-          • Domain Joined Endpoint
+        │
+        ├── Domain Controller
+        │      • Windows Server 2022
+        │      • Active Directory Domain Services
+        │      • DNS Server
+        │
+        └── Client Workstation
+               • Windows 10 / Windows 11
+               • Domain Joined Endpoint
+```
