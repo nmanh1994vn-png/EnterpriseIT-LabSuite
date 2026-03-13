@@ -18,22 +18,22 @@ Key components configured in this lab include:
 
 ## Lab Architecture
 
+```
 User Device
 │
-├── Windows 11 Client
-│
-└── Microsoft 365 Tenant
-│
-├── Entra ID
-│ ├── User Management
-│ └── Group Management
-│
-└── Microsoft Intune
-├── Device Enrollment
-├── Device Compliance
-└── Policy Management
-
----
+└── Windows 11 Client
+    │
+    └── Microsoft 365 Tenant
+        │
+        ├── Entra ID
+        │   ├── User Management
+        │   └── Group Management
+        │
+        └── Microsoft Intune
+            ├── Device Enrollment
+            ├── Device Compliance
+            └── Policy Management
+```
 
 ## Lab Objectives
 
