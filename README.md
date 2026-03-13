@@ -28,9 +28,6 @@ The portfolio demonstrates practical skills in:
 • Security Operations Center (SOC) monitoring and attack detection
 ---
 
-# Lab Architecture
-
-This home lab simulates a small enterprise IT and SOC monitoring environment using virtual machines.
 
 ```
 Windows 11 Host Machine
