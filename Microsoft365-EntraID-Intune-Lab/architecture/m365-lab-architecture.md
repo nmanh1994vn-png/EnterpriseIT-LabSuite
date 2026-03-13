@@ -10,20 +10,22 @@ The environment simulates a typical enterprise cloud setup where users, groups, 
 
 ## Lab Architecture
 
+```
 User Device
-│
-▼
+     │
+     ▼
 Windows 11 Client
-│
-▼
+     │
+     ▼
 Microsoft 365 Tenant
-│
-├── Entra ID
-│ • User management
-│ • Group management
-│ • Authentication
-│
-└── Microsoft Intune
-• Device enrollment
-• Device compliance
-• Policy management
+     │
+     ├── Entra ID
+     │     • User management
+     │     • Group management
+     │     • Authentication
+     │
+     └── Microsoft Intune
+           • Device enrollment
+           • Device compliance
+           • Policy management
+```
