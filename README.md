@@ -63,7 +63,7 @@ The labs demonstrate practical skills in:
 ## Labs Included
 
 ### Active Directory Enterprise Lab
-[Open Lab](./ActiveDirectory-Lab)
+[View Lab](./ActiveDirectory-Lab)
 Enterprise Windows infrastructure deployment.
 
 Skills demonstrated:
@@ -75,7 +75,7 @@ Skills demonstrated:
 ---
 
 ### SOC Active Directory Attack Detection Lab
-[Open Lab](./SOC-ActiveDirectory-Attack-Lab)
+[View Lab](./SOC-ActiveDirectory-Attack-Lab)
 Detection of credential dumping attacks using Windows logs and SIEM.
 
 Skills demonstrated:
@@ -87,7 +87,7 @@ Skills demonstrated:
 ---
 
 ### SOC Windows Event Detection Lab
-[Open Lab](./SOC-Windows-Event-Detection-Lab)
+[View Lab](./SOC-Windows-Event-Detection-Lab)
 Security monitoring and event investigation using Windows logs and Splunk SIEM.
 
 Skills demonstrated:
@@ -99,7 +99,7 @@ Skills demonstrated:
 ---
 
 ### Microsoft 365 / Entra ID / Intune Lab
-[Open Lab](./Microsoft365-EntraID-Intune-Lab)
+[View Lab](./Microsoft365-EntraID-Intune-Lab)
 Cloud identity and device management using Microsoft 365.
 
 Skills demonstrated:
@@ -110,7 +110,7 @@ Skills demonstrated:
 ---
 
 ### Helpdesk Troubleshooting Lab
-[Open Lab](./Helpdesk-Troubleshooting-Lab)
+[View Lab](./Helpdesk-Troubleshooting-Lab)
 Common enterprise IT troubleshooting scenarios.
 
 Skills demonstrated:
