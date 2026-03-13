@@ -12,18 +12,20 @@ The goal of this lab is to practice common system administration tasks used by I
 
 ## Lab Architecture
 
+```
 Windows 11 Host Machine
 │
 └── VMware Workstation
     │
     ├── Domain Controller
-    │   • Windows Server 2022
-    │   • Active Directory Domain Services
-    │   • DNS Server
+    │   ├── Windows Server 2022
+    │   ├── Active Directory Domain Services
+    │   └── DNS Server
     │
     └── Client Machine
-        • Windows 10 / Windows 11
-        • Domain Joined Endpoint
+        ├── Windows 10 / Windows 11
+        └── Domain Joined Endpoint
+```
 
 ---
 
