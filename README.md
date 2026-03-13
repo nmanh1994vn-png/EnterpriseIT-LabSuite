@@ -11,6 +11,12 @@
 ![Microsoft Intune](https://img.shields.io/badge/Intune-Device%20Management-green)
 ![VMware](https://img.shields.io/badge/VMware-Workstation-grey)
 
+## Enterprise Lab Architecture
+
+This environment simulates a small enterprise IT infrastructure with security monitoring and attack detection.
+
+![Lab Architecture](SOC-Windows-Event-Detection-Lab/architecture/soc-detection-lab-architecture.png)
+
 This repository contains hands-on enterprise IT and cybersecurity labs built to simulate real-world corporate environments.
 
 The portfolio demonstrates practical skills in:
