@@ -98,45 +98,34 @@ This allows analysts to detect:
 ## Lab Screenshots
 
 ### 1 Windows 11 Enterprise VM Target Machine
-
-![Windows Target](screenshots/01 Windows 11 Enterprise VM Target Machine.png)
+![Windows Target](<screenshots/01 Windows 11 Enterprise VM Target Machine.png>)
 
 ### 2 Kali Linux Attacker Machine
-
-![Kali Attacker](screenshots/02 Kali Linux Attacker Machine.png)
+![Kali Attacker](<screenshots/02 Kali Linux Attacker Machine.png>)
 
 ### 3 Kali to Windows Successful Ping Connectivity
-
-![Ping Connectivity](screenshots/03 Kali to Windows Successful Ping Connectivity.png)
+![Ping Connectivity](<screenshots/03 Kali to Windows Successful Ping Connectivity.png>)
 
 ### 4 Splunk Enterprise SIEM Dashboard Homepage
-
-![Splunk Dashboard](screenshots/04 Splunk Enterprise SIEM Dashboard Homepage.png)
+![Splunk Dashboard](<screenshots/04 Splunk Enterprise SIEM Dashboard Homepage.png>)
 
 ### 5 Sysmon Installed on Windows Endpoint
-
-![Sysmon Installed](screenshots/05 Sysmon Installed on Windows Endpoint.png)
+![Sysmon Installed](<screenshots/05 Sysmon Installed on Windows Endpoint.png>)
 
 ### 6 Splunk Universal Forwarder Installation
-
-![Forwarder Installed](screenshots/06 Splunk Universal Forwarder Installation.png)
+![Forwarder Installed](<screenshots/06 Splunk Universal Forwarder Installation.png>)
 
 ### 7 Windows Logs Successfully Ingested into Splunk
-
-![Logs Ingested](screenshots/07 Windows Logs Successfully Ingested into Splunk.png)
+![Logs Ingested](<screenshots/07 Windows Logs Successfully Ingested into Splunk.png>)
 
 ### 8 Nmap TCP SYN Scan Attack Simulation
-
-![Nmap Scan](screenshots/08 Nmap TCP SYN Scan Attack Simulation.png)
+![Nmap Scan](<screenshots/08 Nmap TCP SYN Scan Attack Simulation.png>)
 
 ### 9 Splunk Detection of Sysmon Network Events
+![Sysmon Detection](<screenshots/09 Splunk Detection of Sysmon Network Events EventCode 3.png>)
 
-![Sysmon Detection](screenshots/09 Splunk Detection of Sysmon Network Events EventCode 3.png)
-
-### 10 Splunk Detection of Failed Login Attempts Event ID 4625
-
-![Failed Login Detection](screenshots/10 Splunk Detection of Failed Login Attempts Event ID 4625.png)
-
+### 10 Splunk Detection of Failed Login Attempts
+![Failed Login Detection](<screenshots/10 Splunk Detection of Failed Login Attempts Event ID 4625.png>)
 ---
 
 ## Key Skills Demonstrated
