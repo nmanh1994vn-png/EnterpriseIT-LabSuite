@@ -59,33 +59,28 @@ The goal of this lab is to demonstrate practical experience with:
 
 ## Screenshots
 
-### Microsoft 365 Admin Center
-
-![Microsoft 365 Admin](screenshots/01_m365_admin_center.png)
-
----
-
-### Entra ID Users
-
-![Entra Users](screenshots/02_entra_users.png)
+### Microsoft 365 Admin Center (Default Domain)
+![Microsoft 365 Admin Center](screenshots/01%20microsoft365_admin_center_default_domain.png)
 
 ---
 
-### Entra ID Groups
-
-![Entra Groups](screenshots/03_entra_groups.png)
-
----
-
-### Intune Device Enrollment
-
-![Intune Enrollment](screenshots/04_intune_device_enrollment.png)
+### Microsoft 365 Admin Center – Manage Users
+![Manage Users](screenshots/02%20microsoft365_admin_center_manage%20users.png)
 
 ---
 
-### Intune Device Compliance
+### Entra ID Security Group Management
+![Entra ID Security Groups](screenshots/03%20entra_id_security_group_management.png)
 
-![Intune Compliance](screenshots/05_device_compliance.png)
+---
+
+### Intune Admin Center Overview
+![Intune Admin Center](screenshots/04%20intune_admin_center_overview.png)
+
+---
+
+### Intune Device Configuration Policies
+![Intune Device Configuration](screenshots/05%20intune_device_configuration_policies.png)
 
 ---
 
