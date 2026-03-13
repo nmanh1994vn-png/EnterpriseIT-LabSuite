@@ -84,8 +84,7 @@ The goal of this lab is to demonstrate practical experience with:
 
 ### Intune Device Configuration Policies
 
-![Intune Policies](screenshots/05_intune_device_configuration_policies.png)
----
+![Intune Policies](screenshots/05%20intune_device_configuration_policies.png)---
 
 ## Key Skills Demonstrated
 
