@@ -1,6 +1,19 @@
 ![Cybersecurity Home Lab](repo-banner.png)
 # Enterprise IT & Cybersecurity Home Lab Portfolio
 
+## 💼 Real-World IT Support Experience
+
+This lab portfolio simulates real service desk and field IT support scenarios in a corporate environment.
+
+Hands-on experience includes:
+- Troubleshooting network connectivity and DNS issues
+- Resolving printer and hardware problems
+- Supporting user login and Active Directory accounts
+- Performing Microsoft 365 user setup and support
+- Diagnosing and resolving multi-issue user incidents
+
+These scenarios reflect real-world IT support tasks in enterprise environments.
+
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Lab-blue)
 ![Splunk](https://img.shields.io/badge/Splunk-SIEM-black)
